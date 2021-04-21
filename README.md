@@ -1,4 +1,4 @@
-<h1 align="center">🕷️ DSRP Webscraping Algorithms 💻</h1>
+<h1 align="center">🕷️ DSRP Webscraping Algorithms 💻</h1> 
 
 <p align="center">
     Repository with the current webscraping progress in DSRP project
@@ -15,7 +15,7 @@
 
 <p align="center">
     <img src="./.github/icons/dsrp_logo.png" />
-    <!-- <img src="./.github/demo.gif" /> -->
+    <img src="./.github/code_preview.gif" />
 </p>
 
 
